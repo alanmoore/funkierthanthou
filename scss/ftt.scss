@@ -5,8 +5,6 @@
 /**
  *
  *
- * Here we pull in some variables, include the inuit.css framework, then add our
- * project-specific components afterwards.
  */
 
 
@@ -14,3 +12,4 @@
  * Setup
  */
 @import "vendor/inuit.css/style";
+@import "partials/type";
